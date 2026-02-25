@@ -1,0 +1,19 @@
+# Зависимости
+node_modules/
+vendor/
+venv/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Секреты
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Сборка
+dist/
+build/
